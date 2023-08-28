@@ -1,0 +1,2 @@
+C:\study\Productregistration\Productregistration\obj\Debug\Productregistration.csproj.AssemblyReference.cache
+C:\study\Productregistration\Productregistration\obj\Debug\Productregistration.csproj.CoreCompileInputs.cache
